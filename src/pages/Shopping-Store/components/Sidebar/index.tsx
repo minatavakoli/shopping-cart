@@ -1,7 +1,7 @@
 import { CloseIcon } from "@chakra-ui/icons";
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
 import { useEffect, useRef, useState } from "react";
-import { useOutsideOutside } from "../../../../../hooks";
+import { useOutsideOutside } from "../../../../hooks";
 import { useProductStore } from "../../Store";
 import { SidebarProps } from "./types";
 
