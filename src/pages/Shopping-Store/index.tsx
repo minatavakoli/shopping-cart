@@ -1,6 +1,6 @@
 import { Badge, Box, Heading, Image, SimpleGrid, Text } from "@chakra-ui/react";
 import { useEffect, useState } from "react";
-import IconShop from "../../../../public/iconshopmin.png";
+import IconShop from "../../../public/iconshop.png";
 import Card from "./components/Card";
 import Sidebar from "./components/Sidebar";
 import { useProductStore } from "./Store";
